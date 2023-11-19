@@ -1,16 +1,24 @@
 # tic_tac_toe
 
-A new Flutter project.
+It's a Simple Game application.
 
-## Getting Started
+<h1>App Preview</h1>
+<h6>Splash Screen</h6>
 
-This project is a starting point for a Flutter application.
+<table style="width:100%">
+  <tr>
+    <th>Home Screen</th>
+    <th>Single Playing</th>
+    <th>Two People</th>
+    <th>Two People Playing</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MdAshrafUllah/tic-tac-toe-game-app/assets/96839511/79177184-85e1-4253-9b8e-5211490cea1b" width="200" height="380"></td>
+    <td><img src="https://github.com/MdAshrafUllah/tic-tac-toe-game-app/assets/96839511/319b31d4-eaf5-4e70-be0b-cb0660ee8d1b" width="200" height="380"></td>
+    <td><img src="https://github.com/MdAshrafUllah/tic-tac-toe-game-app/assets/96839511/9c358153-4b9c-43ad-ba9f-a73cc2b118b3" width="200" height="380"></td>
+    <td><img src="https://github.com/MdAshrafUllah/tic-tac-toe-game-app/assets/96839511/d4ca74bb-ef69-46b7-aed3-a98eea6ada91" width="200" height="380"></td>
+  </tr>
+</table>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>Need to improve the bot algorithom</h3>
+<h4>Thank you for visiting</h4>
