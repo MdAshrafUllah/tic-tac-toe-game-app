@@ -8,7 +8,7 @@ It's a Simple Game application.
 <table style="width:100%">
   <tr>
     <th>Home Screen</th>
-    <th>Single Playing</th>
+    <th>Single Playing with Bot</th>
     <th>Two People</th>
     <th>Two People Playing</th>
   </tr>
