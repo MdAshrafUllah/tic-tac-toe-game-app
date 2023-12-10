@@ -3,7 +3,6 @@
 It's a Simple Game application.
 
 <h1>App Preview</h1>
-<h6>Splash Screen</h6>
 
 <table style="width:100%">
   <tr>
