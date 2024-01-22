@@ -1,6 +1,6 @@
 # tic_tac_toe
 
-It's a Simple Game application.
+It's a Simple Game application. The AI(Bot) uses the Minimax Algorithm.
 
 <h1>App Preview</h1>
 
